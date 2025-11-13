@@ -1,7 +1,5 @@
 # Market Forecasting and Portfolio Management
 
-*Author: Heming*
-
 ## 📘 Overview
 
 This project benchmarks and compares multiple **machine learning models** for **market forecasting** and **portfolio management**.
